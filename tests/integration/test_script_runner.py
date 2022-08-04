@@ -1,3 +1,4 @@
+# isort: skip_file
 import enum
 import importlib.machinery
 import importlib.util
